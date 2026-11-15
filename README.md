@@ -4,6 +4,16 @@
 
 <table width="100%">
 <tr>
+<td align="center" valign="top" width="33%"><a href="15.%20Incident%20Response/The%20Incident%20Response%20Playbook%20Your%20First%2010%20Real%20Incidents.pdf"><img src="assets/pdf-covers/first-ten-real-incidents.jpg" alt="The Incident Response Playbook: Your First 10 Real Incidents" title="The Incident Response Playbook: Your First 10 Real Incidents" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="02.%20Networking/NGINX%20Troubleshooting%2020%20Errors%20and%20Their%20Fixes.pdf"><img src="assets/pdf-covers/nginx-twenty-errors-fixes.jpg" alt="NGINX Troubleshooting: 20 Errors and Their Fixes" title="NGINX Troubleshooting: 20 Errors and Their Fixes" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><img src="assets/pdf-covers/zero-to-deployed-first-cicd-pipeline.jpg" alt="Zero to Deployed: Your First CI/CD Pipeline — From Push to Live Server" title="Zero to Deployed: Your First CI/CD Pipeline — From Push to Live Server" width="100%" /><br /><strong>PDF not available</strong></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="28.%20Hands-On%20Projects/10%20AWS%20Projects%20That%20Prove%20You%20Can%20Do%20the%20Job.pdf"><img src="assets/pdf-covers/ten-aws-projects-prove-the-job.jpg" alt="10 AWS Projects That Prove You Can Do the Job" title="10 AWS Projects That Prove You Can Do the Job" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="11.%20Databases/From%20One%20Server%20to%20a%20Real%20System%20Add%20the%20Database%2C%20Cache%20and%20Queue.pdf"><img src="assets/pdf-covers/one-server-real-system.jpg" alt="From One Server to a Real System: Add the Database, Cache and Queue" title="From One Server to a Real System: Add the Database, Cache and Queue" width="100%" /></a></td>
+<td align="center" valign="top" width="33%"><a href="27.%20Career%2C%20Interviews%20%26%20Certifications/20%20Real%20Resumes.pdf"><img src="assets/pdf-covers/twenty-real-resumes.jpg" alt="20 Real Resumes That Got Interviews: DevOps, SRE, Cloud &amp; Platform" title="20 Real Resumes That Got Interviews: DevOps, SRE, Cloud &amp; Platform" width="100%" /></a></td>
+</tr>
+<tr>
 <td align="center" valign="top" width="33%"><a href="00.%20Linux/50%20Linux%20Production%20Failures.pdf"><img src="assets/pdf-covers/fifty-linux-production-failures.jpg" alt="50 Linux Production Failures" title="50 Linux Production Failures" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="17.%20Production%20Engineering/Production%20Maintenance%20%26%20Zero-Downtime%20Changes.pdf"><img src="assets/pdf-covers/production-maintenance-zero-downtime.jpg" alt="Production Maintenance &amp; Zero-Downtime Changes" title="Production Maintenance &amp; Zero-Downtime Changes" width="100%" /></a></td>
 <td align="center" valign="top" width="33%"><a href="03.%20Shell%20Scripting/Shell%20Scripting%20From%20Scratch.pdf"><img src="assets/pdf-covers/shell-scripting-from-scratch.jpg" alt="Shell Scripting from Scratch" title="Shell Scripting from Scratch" width="100%" /></a></td>
